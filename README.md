@@ -1,3 +1,4 @@
+_It's not who I am underneath, but what I code that defines me._
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaushal-biqmind&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=kaushal-biqmind&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
